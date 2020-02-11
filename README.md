@@ -5,7 +5,7 @@ web.html
 <title> <b> Univérsité d'Amar Thledji <br> laghouat </br> </b></title>
 </head>
 <body bgcolor=ceebfe text=000000 link=ffffff >
-<img src="image/univ.png"/>
+
 <h1 align=center >  <font size=22s > <b> Univérsité d'Amar Thledji  laghouat  </b></font> </h1> 
 <hr>
 <h2 align=center ><font size =6 >     |  accueil  |   historique de l'informatique | administrations |  plans d'acces de departement  | contactez nous|   </font></h2>
