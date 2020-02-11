@@ -12,3 +12,5 @@
 */
 
 Route::get('user/{id}','classeConroller@A1' );
+Route::get('/','classeConroller@wlc' );
+
