@@ -8,5 +8,9 @@ class classeConroller extends Controller
 {
     function A1 ($id) {
     return 'user'.$id;
+
+}
+function wlc (){
+	return view('welcome');
 }
 }
